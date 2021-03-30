@@ -1,0 +1,16 @@
+<Ui>
+    <Frame name="HelloWorld_MainFrame">
+        <Anchors>
+            <Anchor point="CENTER" />
+        </Anchors>
+        <Size>
+            <AbsDimension x="100" y="30"/>
+        </Size>
+        <Backdrop bgFile="Interface/tooltips/UI-Tooltip-Background" tile="true">
+            <TileSize>
+                <AbsValue val="16"/>
+            </TileSize>
+        </Backdrop>
+    </Frame>
+</Ui>
+
